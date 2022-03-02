@@ -7,3 +7,4 @@ Display current directory content in long format with user id
 Creates a directory in another directory
 Move file from root directory to sub directory
 Delete a file from a directory
+Delete a directory in another directory
