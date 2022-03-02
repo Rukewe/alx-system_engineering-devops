@@ -9,3 +9,4 @@ Move file from root directory to sub directory
 Delete a file from a directory
 Delete a directory in another directory
 Changes the working directory to the previous one
+List all files in the current directory and parent directory of the working directory
