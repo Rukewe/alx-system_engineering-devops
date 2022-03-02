@@ -12,3 +12,4 @@ Changes the working directory to the previous one
 List all files in the current directory and parent directory of the working directory
 That print
 Creat asymbolic link
+Copies all HTML files
