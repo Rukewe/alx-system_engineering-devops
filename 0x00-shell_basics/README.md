@@ -8,3 +8,4 @@ Creates a directory in another directory
 Move file from root directory to sub directory
 Delete a file from a directory
 Delete a directory in another directory
+Changes the working directory to the previous one
