@@ -7,3 +7,8 @@
 6-multiple_permissions contains a script that execute permission to the owner and the group owner
 7-everybody contains a script that adds execution permission to the owner
 8-James_Bond contains a script that sets the permission to the file hello
+9-John_Doe contains a script that sets the mode of the file hello
+10-mirror_permissions contains a script that sets the mode of the file hello the same as olleh's mode
+11-directories_permissions contains a script adds execute permission to all subdirectories
+Create a directory
+Changes the group owner
